@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "utrains"
+    organization = "utrains_2"
 
     workspaces {
       name = "demo-repository"
